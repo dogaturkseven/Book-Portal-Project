@@ -1,0 +1,34 @@
+.btn-primary{
+    color:#fff;
+    background-color: #fd521c;
+    border-color:  #fd521c;
+}
+
+.icon-img{
+    width: 100px;
+    height: 100px;
+    margin-top: 200px;
+    margin-bottom: 2rem;
+
+}
+
+.people-img{
+    width: 120%;
+    height: 120%;
+   
+}
+
+.icon-text {
+    margin-top: 150px;
+    font-size: 5rem; 
+    color: #5775cd; 
+    margin-bottom: 20px; 
+    font-family: 'Helvetica Hebrew';
+    font-weight: bold;
+    padding-left: 60px;
+  }
+
+.submit-button {
+    margin-top: 12px; /* Adjust the margin as needed */
+    margin-right: 70px; /* Adjust the padding as needed */
+  }

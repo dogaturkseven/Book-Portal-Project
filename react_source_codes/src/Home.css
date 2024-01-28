@@ -1,0 +1,9 @@
+.centered-text {
+    text-align: center;
+    font-size: 3rem; 
+    margin-top: 170px;
+    color: #5775cd; 
+    font-family: 'Helvetica Hebrew';
+    font-weight: bold;
+    font-style: italic;
+}
